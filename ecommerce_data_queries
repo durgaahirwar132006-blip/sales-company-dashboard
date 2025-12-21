@@ -1,3 +1,4 @@
+#SALES ECOMMERCE ANALYSIS QUERIES
 PIZZA SALES SQL QUERIES
 A. KPI’s
 1. Total Revenue:
@@ -103,4 +104,5 @@ FROM pizza_sales
 WHERE pizza_category = 'Classic'
 GROUP BY pizza_name
 ORDER BY Total_Orders ASC
+
 
